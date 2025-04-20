@@ -5,4 +5,4 @@ DM2GM
 
 输入或导入菜单和材质映射表后即可得到结果。（目前暂无完整映射表，建议根据需求搭配AI使用）
 
-推荐与[https://github.com/re-poem/MenuDiverter](url)相结合使用。
+推荐与[MenuDiverter](https://github.com/re-poem/MenuDiverter)相结合使用。
